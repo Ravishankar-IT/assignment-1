@@ -2,11 +2,11 @@
 using namespace std;
 int main()
 {
-    int a,b;
+    int x,y;
    cout<<"Enter the firest number: ";
-   cin>>a;
+   cin>>x;
     cout<<"Enter the second number: ";
-    cin>>b;
-    cout<<"The sum is: "<<a+b <<endl;
+    cin>>y;
+    cout<<"The sum is: "<<x+y <<endl;
     return 0;
 }
